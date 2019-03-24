@@ -6,4 +6,5 @@ def line(katz_deli)
   else
     puts "There are people inline"
     puts katz_deli
+  end
 end
